@@ -1,0 +1,26 @@
+2 GO
+1 Craggs Row 60 5 0
+1 North Street 80 10 0
+4 Bonus
+1 Maudland Road 100 15 1
+1 Brook Street 120 15 1
+6 Jail
+1 Kirkham Street 140 20 2
+1 Leighton Street 160 20 2
+3 Railway Station
+1 Bhailok Road 180 25 3
+1 Adelphi Street 180 25 3
+1 Moor Lane 200 25 3
+8 Free Parking
+1 Victoria Street 220 30 4
+1 Harrington Street 240 30 4
+5 Penalty
+1 Marsh Lane 260 35 5
+1 Hope Street 280 35 5
+7 Go to Jail
+1 Friar gate 300 45 6
+1 Corporation Street 300 45 6
+1 Walker Street 320 45 6
+3 Bus Station
+1 Fylde Road 400 50 7
+1 Ring Way 420 50 7 
